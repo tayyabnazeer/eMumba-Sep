@@ -9,7 +9,7 @@ var smtpTransport = nodemailer.createTransport({
 	service: 'gmail',
 	auth: {
 	  user: 'khalid.khan@emumba.com',
-	  pass: 'et3rc3sa'
+	  pass: '00000000'
 	}
 });
 
